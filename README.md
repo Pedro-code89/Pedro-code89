@@ -42,6 +42,7 @@
 # Projetos 🔨
 
 - Atualmente estou desenvolvendo um jogo de plataforma 2D utilizando a Godot Engine.
+- Estou desenvolvendo um site chamado CoffeeBreak feito para estudos.
 
 # Objetivos Profissionais ✨
 
