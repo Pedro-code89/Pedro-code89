@@ -53,9 +53,10 @@
 
 - Longo Prazo:
 
--- Continuar me especializando na área de tecnologia e desnvolvimento;
+-- Continuar me especializando na área de tecnologia e desenvolvimento;
 -- Construir uma carreira profissional e sólida na área;
 -- Ingressar em uma faculdade na área;
+-- Desenvolver um jogo completo com fases e níveis
 
 # Perspectiva para o futuro 🏗️
 
